@@ -6,7 +6,7 @@ A modern, mobile-responsive cryptocurrency dashboard built with React, Bootstrap
 
 ## 🌐 Live Demo
 
-[👉 View Live Project Here](https://your-deployed-link.com)  
+[👉 View Live Project Here](https://crypto-dashboard-dfl1dt2mv-diegom339s-projects.vercel.app)  
 <!-- Replace this with your actual Vercel or Netlify URL -->
 
 ---
